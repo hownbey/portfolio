@@ -1,11 +1,11 @@
 # Developer Dashboard UI audit
 
-PayPal’s Developer Dashboard needed shorter, clearer text, so I performed a UI text audit. Because of budget constraints, the audit was limited to text only, but my audit made the dashboard significantly easier for users to navigate.
+PayPal’s Developer Dashboard needed shorter, clearer text, so I performed a UI text audit. Because of budget constraints, the audit was limited to text only, but my audit made the dashboard significantly easier for users to navigate. This is a sample of some of the changes I made. 
 
 | Current text | Recommended update | Comments | 
 | ------------ | ------------------ | -------- |
 | Get started by clicking **Create App**. PayPal Commerce Platform for Business users can get started quickly by using the **Default Application** credentials to test PayPal REST APIs in our sandbox. | Replace text with two buttons: **Create App** and **Create Sandbox Credentials** | -- |
-| To access these apps, use the Live toggle to leave the testing engvironment | Use the **Live** switch to see NVP/SOAP apps. | -- |
+| To access these apps, use the Live toggle to leave the testing engvironment | Use the **Live** toggle to see NVP/SOAP apps. | -- |
 | Test your PayPal Express Checkout integration in the sandbox using the Braintree SDK. When you're ready to go live, see [Go live](https://github.com/hownbey/portfolio/blob/main/ui-audit.md). | Test your Express Checkout with a sandbox Braintree SDK integration. | Removed "Go live" text. The docs will guide the user there - no need to do it in the dashboard. |
 | Note: You can link a maximum of five Braintree SDK sandbox access tokens to your PayPal account. | Link up to 5 Braintree access tokens to a PayPal account. | I'd love to see this text hidden behind a little question mark that users can click for more info. The dashboard should be a hands-on experience with minimal reading. Also no need for it to be a "note" |
 | Note that not all features are available for live transactions. Features available for live transactions are listed in your [account eligibility](https://github.com/hownbey/portfolio/blob/main/ui-audit.md). | See available features in [account eligiblity](https://github.com/hownbey/portfolio/blob/main/ui-audit.md). | -- |
