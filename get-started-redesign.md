@@ -1,6 +1,6 @@
 # Increasing user satisfaction by 100% 
 
-This redesign took the user satisfaction score from a 2 to a 4 out of 5 on [a page that gets over a million visits every year](https://developer.paypal.com/api/rest/). We also decreased time-to-first-click by a full 60 seconds. Check out the before and after and read commentary about what I did.
+This redesign took the user satisfaction score from a 2 to a 4 out of 5 on [a page that gets over a million visits every year](https://developer.paypal.com/api/rest/). We also decreased time-to-first-click by 5%. Check out the before and after. For content enthusiasts, I included commentary about the reasoning behind the edits.
 
 ## Before 
 
@@ -12,7 +12,7 @@ This redesign took the user satisfaction score from a 2 to a 4 out of 5 on [a pa
 
 ## Explanation of changes
 
-For content enthusiasts, here's a play-by-play of the changes I made.
+If you want a deep dive, here's a play-by-play of the changes I made.
 
 ### The old intro
 
