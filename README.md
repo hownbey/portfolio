@@ -1,6 +1,6 @@
 # Harrison Ownbey's writing portfolio
 
-I'm a versatile, team-oriented technical writer with a proven record of driving business results.
+Hi! I'm Harrison Ownbey. I'm a versatile, team-oriented technical writer with a proven record of driving business results.
 
 ## Before-and-after designs
 
