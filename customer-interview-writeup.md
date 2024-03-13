@@ -1,6 +1,8 @@
+The following is a writeup of findings from customer interviews. I published this writeup on an internal blog to pass key takeaways to executives.
+
 # PayPal Champions on documentation
 
-We recently interviewed two bona-fide PayPal Champions about our documentation. Buckle up for a write-up of the project background and key takeaways. Let's hit it!
+We recently interviewed two bona-fide PayPal Champions about our documentation. Buckle up for a write-up of the project background and key takeaways, because here we go!
 
 ## What is a PayPal Champion?
 
@@ -22,7 +24,7 @@ Champion 1 is the CEO of a service that builds dashboards for PayPal and Stripe 
 
 * He likes the overall look and feel of the API reference. 
 * We should include changelogs or release notes of what changed in each release of the API.
-* We should include API limitations in the general description of the API. Currently, Manfred has to dig through the API reference to find the API's limitations, which can be time-consuming and inconsistent across APIs.
+* We should include API limitations in the general description of the API. Currently, he has to dig through the API reference to find the API's limitations, which can be time-consuming and inconsistent across APIs.
   
 ## Champion 2
 
