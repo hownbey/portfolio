@@ -1,6 +1,6 @@
 # Developer Dashboard UI audit
 
-PayPal’s Developer Dashboard needed shorter, clearer text, so I performed a UI text audit.
+PayPal’s Developer Dashboard needed shorter, clearer text, so I performed a UI text audit. Because of budget constraints, the audit was limited to text only, but my audit made the dashboard significantly easier for users to navigate.
 
 | Current text | Recommended update | Comments | 
 | ------------ | ------------------ | -------- |
