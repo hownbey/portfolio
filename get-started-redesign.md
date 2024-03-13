@@ -1,6 +1,6 @@
 # Increasing user satisfaction by 100% 
 
-This redesign took the user satisfaction score from a 2 to a 4 out of 5 on a page that gets over a million visits every year. We also decreased time-to-first-click by a full 60 seconds. Check out the before and after and read commentary about what I did.
+This redesign took the user satisfaction score from a 2 to a 4 out of 5 on [a page that gets over a million visits every year](https://developer.paypal.com/api/rest/). We also decreased time-to-first-click by a full 60 seconds. Check out the before and after and read commentary about what I did.
 
 ## Before 
 
