@@ -2,7 +2,7 @@
   
 This redesign resulted in a 5% boost in API adoption, which translates into tens of thousands more people using this API. The redesign proves more customers adopt a product when they quickly understand what it does. 
 
-# Before
+## Before
 
 **I can’t emphasize this enough: I didn’t write this!**
 
@@ -11,7 +11,7 @@ This redesign resulted in a 5% boost in API adoption, which translates into tens
 > Setup Tokens creates temporary tokens that are created for caching payment methods from client environment (Ex Browser) and when a Vault requires approval from your customer before being vaulted. Setup tokens provide your customer a way to verify and authenticate the payment method being stored in the Vault. Setup tokens can be used in a transaction or converted to payment method token only once.
 > Payment Tokens creates a permanent payment token that is reference to vaulted payment method. A payment token can be repeatedly used checkout and recurring transactions.
 
-# After
+## After
 
 I redesigned the previous API description to:
 * Reduce words by 23%. 
