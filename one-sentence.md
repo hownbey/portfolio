@@ -21,4 +21,4 @@ When the new API call log went live, customer feedback scores for the page incre
 
 ## Why is one sentence in my portfolio?
 
-I’ve often found that the way someone does one thing is a good indicator of how they do everything. This example is a microcosm of how I work. I take poor source material and confusing requirements. Then I make something better. It’s deceptively simple. I love it.
+I’ve often found that the way someone does one thing is a good indicator of how they do everything. This example is a microcosm of how I work. I take beat-up source material and confusing requirements and I make something good. It’s deceptively simple. I love it.
