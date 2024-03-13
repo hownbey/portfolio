@@ -20,3 +20,10 @@ Check out my [Developer Dashboard UI text audit](https://github.com/hownbey/port
 ## The mess behind the magic 
 
 This brief writeup is an inside look at how I took confusing requirements from a PM and created [one easy-to-read sentence](https://github.com/hownbey/portfolio/blob/main/one-sentence.md).
+
+## My writing in the wild 
+
+* [Copy and paste pay links and buttons](https://developer.paypal.com/docs/checkout/copy-paste/)
+* [Save payment methods](https://developer.paypal.com/docs/checkout/save-payment-methods/)
+* [Integrate Invoicing](https://developer.paypal.com/docs/invoicing/integrate/)
+* [Introducing Pay in 4 from PayPal: What Devs Need to Know](https://medium.com/paypal-tech/introducing-pay-in-4-from-paypal-heres-what-devs-need-to-know-12287bd362c1)
