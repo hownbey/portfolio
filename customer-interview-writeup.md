@@ -10,7 +10,7 @@ We recently interviewed two bona-fide PayPal Champions about our documentation. 
 
 I decided the documentation itself is a product, so I opted to have an open-ended discussion about the developer portal. This was the right approach - using them as generic testers would have lost the nuance of their perspectives as PayPal Champions.
 
-Before I interviewed our guests of honor, I prepared a [discussion guide](https://docs.google.com/document/d/1aGklHGV2C24w2N9hrPmSAFTiFSkiCY9AF29j1zj-008/edit) with help from our user research group. The discussion guide kept us on track and ensured that different writers could conduct future interviews in a similar way. We can't wait to do this again with other champs.
+Before I interviewed our guests of honor, I prepared a discussion guide with help from our user research group. The discussion guide kept us on track and ensured that different writers could conduct future interviews in a similar way. We can't wait to do this again with other champs.
 
 Ok, on to the findings!
 
