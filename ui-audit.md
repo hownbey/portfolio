@@ -1,0 +1,15 @@
+# Developer Dashboard UI audit
+
+PayPal’s Developer Dashboard needed shorter, clearer text, so I performed a UI text audit.
+
+| Current text | Recommended update | Comments | 
+| ------------ | ------------------ | -------- |
+| Get started by clicking **Create App**. PayPal Commerce Platform for Business users can get started quickly by using the **Default Application** credentials to test PayPal REST APIs in our sandbox. | Replace text with two buttons: **Create App** and **Create Sandbox Credentials** | -- |
+| To access these apps, use the Live toggle to leave the testing engvironment | Use the **Live** switch to see NVP/SOAP apps. | -- |
+| Test your PayPal Express Checkout integration in the sandbox using the Braintree SDK. When you're ready to go live, see [Go live](). | Test your Express Checkout with a sandbox Braintree SDK integration. | Removed "Go live" text. The docs will guide the user there - no need to do it in the dashboard. |
+| Note: You can link a maximum of five Braintree SDK sandbox access tokens to your PayPal account. | Link up to 5 Braintree access tokens to a PayPal account. | I'd love to see this text hidden behind a little question mark that users can click for more info. The dashboard should be a hands-on experience with minimal reading. Also no need for it to be a "note" |
+| Note that not all features are available for live transactions. Features available for live transactions are listed in your [account eligibility](). | See available features in [account eligiblity](). | -- |
+| Identity service that enables your customers to log in with their PayPal account. | Enable customers to log in with their PayPal account. | -- |
+| You cannot generate Braintree SDK sandbox access tokens because you do not have a sandbox Business account in a supported country. To generate a Braintree SDK sandbox access token, create a sandbox Business account in one of the following countries: ...... | Country not supported. Create a sandbox business account in a [supported country](https://www.paypal.com/us/webapps/mpp/country-worldwide). | This is error text that blames the user. Also the entire country availablity list was in a tiny box. I linked out to the list. | 
+| Review sandbox email notifications as a result of REST and Classic API requests and responses. Only notifications from the last 30 days will be displayed. | Review email notifications from API calls from the last 30 days only. | -- | 
+| After you configure a listener, you can use the Webhooks simulator with a sample payload to simulate mock webhook events. The simulator validates that your listener can successfully receive event data without any connectivity issues and generates mock event data to show you how webhook events look. | Configure a listener. Use the webhooks simulator to verify the listener generates mock event data. | -- | 
