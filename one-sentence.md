@@ -5,12 +5,12 @@ A sentence at the top of an API call log read as follows:
 
 It was a clunky sentence. Worse, it was an inaccurate sentence since engineering added new functionality to the call log. 
 
-# The prompt from a PM
+## The prompt from a PM
 
 Here’s what the product manager requested in the ticket. Can’t help but love PM language:
 > “I want to emphasize that this applies to the sort and search actions too - such that number of results will never be greater than X, where X =  100 OR the X < 100 results available within last 15 days. I also need to get it corrected for conciseness of language and grammar check”
 
-# The result
+## The result
 
 I reworked the sentence like this:
 > “View, sort and search up to 100 calls made within the last 15 days.”
@@ -19,6 +19,6 @@ I took the PM’s requirements and wrote a sentence that was shorter, clearer, a
 
 When the new API call log went live, customer feedback scores for the page increased by 10%. The content guided customers where they needed to go and got out of their way. 
 
-# Why is one sentence in my portfolio?
+## Why is one sentence in my portfolio?
 
 I’ve often found that the way someone does one thing is a good indicator of how they do everything. This example is a microcosm of how I work. I take poor source material and confusing requirements. Then I make something better. It’s deceptively simple. I love it.
