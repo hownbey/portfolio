@@ -4,11 +4,11 @@ This redesign took the user satisfaction score from a 2 to a 4 out of 5 on a pag
 
 ## Before 
 
-![API get started page before redesign](https://github.com/hownbey/portfolio/blob/main/before.png)
+![API get started page before redesign](https://github.com/hownbey/portfolio/blob/main/img/before.png)
 
 ## After
 
-![API get started page after redesign](https://github.com/hownbey/portfolio/blob/main/after.png)
+![API get started page after redesign](https://github.com/hownbey/portfolio/blob/main/img/after.png)
 
 ## Explanation of changes
 
