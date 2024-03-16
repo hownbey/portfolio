@@ -15,11 +15,11 @@ I conducted user interviews and passed key takeaways to executives in an [easy-t
 
 ## UI writing 
 
-Check out my [Developer Dashboard UI text audit](https://github.com/hownbey/portfolio/blob/main/ui-audit.md).
+In a perfect world, the UI is so intuitive that users don't need documentation. See my attempt at chasing the dream with my [Developer Dashboard UI text audit](https://github.com/hownbey/portfolio/blob/main/ui-audit.md).
 
 ## The mess behind the magic 
 
-This brief writeup is an inside look at how I took confusing requirements from a PM and created [one easy-to-read sentence](https://github.com/hownbey/portfolio/blob/main/one-sentence.md).
+This brief writeup is an inside look at how I took confusing requirements from a product manager and created [one easy-to-read sentence](https://github.com/hownbey/portfolio/blob/main/one-sentence.md).
 
 ## Old-school hardware documentation 
 
