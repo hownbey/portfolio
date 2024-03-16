@@ -21,6 +21,10 @@ Check out my [Developer Dashboard UI text audit](https://github.com/hownbey/port
 
 This brief writeup is an inside look at how I took confusing requirements from a PM and created [one easy-to-read sentence](https://github.com/hownbey/portfolio/blob/main/one-sentence.md).
 
+## Old-school hardware documentation 
+
+Remember when you'd buy hardware and the guide came in the box? I've [written those guides](https://github.com/hownbey/portfolio/blob/main/hardware-doc.pdf).
+
 ## My writing in the wild 
 
 * [Copy and paste pay links and buttons](https://developer.paypal.com/docs/checkout/copy-paste/)
