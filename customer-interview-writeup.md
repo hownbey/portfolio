@@ -2,7 +2,7 @@ The following is a writeup of findings from customer interviews. I published thi
 
 # PayPal Champions on documentation
 
-We recently interviewed two bona-fide PayPal Champions about our documentation. Buckle up for a write-up of the project background and key takeaways, because here we go!
+We recently interviewed two bona-fide PayPal Champions about our documentation. Buckle up for a quick summary of the project background and key takeaways.
 
 ## What is a PayPal Champion?
 
@@ -10,9 +10,9 @@ We recently interviewed two bona-fide PayPal Champions about our documentation. 
 
 ## Methodology
 
-I decided the documentation itself is a product, so I opted to have an open-ended discussion about the developer portal. This was the right approach - using them as generic testers would have lost the nuance of their perspectives as PayPal Champions.
+I decided the documentation itself is a product, so I opted to have an open-ended discussion about the developer portal. This was the right approach - using Champions as generic testers would have lost the nuance of their perspectives as Champions.
 
-Before I interviewed our guests of honor, I prepared a discussion guide with help from our user research group. The discussion guide kept us on track and ensured that different writers could conduct future interviews in a similar way. We can't wait to do this again with other champs.
+Before I interviewed our guests of honor, I prepared a discussion guide with help from our user research group. The discussion guide kept us on track and ensures that other team members can conduct future interviews in a similar way. We can't wait to do this again with other champs.
 
 Ok, on to the findings!
 
