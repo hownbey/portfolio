@@ -1,6 +1,6 @@
 # Before and after - API description rewrite
   
-This redesign resulted in a 5% boost in API adoption, which translates into tens of thousands more people using this API. The redesign proves more customers adopt a product when they quickly understand what it does. 
+This redesign resulted in a 5% boost in API adoption, which translates into tens of thousands more people using this API. The redesign proves more customers adopt a product when they understand what it does. 
 
 ## Before
 
