@@ -2,7 +2,12 @@ The following is a writeup of findings from customer interviews. I published thi
 
 # PayPal Champions on documentation
 
-We recently interviewed two bona-fide PayPal Champions about our documentation. Buckle up for a quick summary of the project background and key takeaways.
+We recently interviewed two bona-fide PayPal Champions about our documentation. 
+
+This post covers:
+* Project background 
+* Customer profiles
+* Key takeaways
 
 ## What is a PayPal Champion?
 
