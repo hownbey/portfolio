@@ -27,7 +27,7 @@ Remember when you'd buy hardware and the guide came in the box? I've [written th
 
 ## My writing in the wild 
 
-* [Copy and paste pay links and buttons](https://developer.paypal.com/docs/checkout/copy-paste/)
+* [No-Code Checkout](https://developer.paypal.com/docs/checkout/copy-paste/)
 * [Save payment methods](https://developer.paypal.com/docs/checkout/save-payment-methods/)
 * [Integrate Invoicing](https://developer.paypal.com/docs/invoicing/integrate/)
 * [Introducing Pay in 4 from PayPal: What Devs Need to Know](https://medium.com/paypal-tech/introducing-pay-in-4-from-paypal-heres-what-devs-need-to-know-12287bd362c1)
