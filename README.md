@@ -1,6 +1,6 @@
 # Harrison Ownbey's writing portfolio
 
-Hi! I'm [Harrison Ownbey](https://www.linkedin.com/in/harrisonownbey/). I'm a versatile, team-oriented technical writer with over a decade of experience at Fortune 500 companies and a proven record of driving business results.
+Hi! I'm [Harrison Ownbey](https://www.linkedin.com/in/harrisonownbey/). I'm a versatile, team-oriented technical writer with over a decade of experience at three Fortune 500 companies and a proven record of driving business results.
 
 ## Before-and-after designs
 
