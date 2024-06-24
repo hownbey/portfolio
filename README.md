@@ -21,10 +21,6 @@ In a perfect world, the UI is so intuitive that users don't need documentation. 
 
 This brief writeup is an inside look at how I took confusing requirements from a product manager and created [one easy-to-read sentence](https://github.com/hownbey/portfolio/blob/main/one-sentence.md).
 
-## Old-school hardware documentation 
-
-Remember when you'd buy hardware and the guide came in the box? I've [written those guides](https://github.com/hownbey/portfolio/blob/main/hardware-doc.pdf).
-
 ## My writing in the wild 
 
 * [No-Code Checkout](https://developer.paypal.com/docs/checkout/copy-paste/)
