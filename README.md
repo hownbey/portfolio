@@ -4,28 +4,28 @@ Hi! I'm [Harrison Ownbey](https://www.linkedin.com/in/harrisonownbey/). I'm a ve
 
 ## Before-and-after designs
 
-Sometimes the best way to see how far you've come is to look where you started. Check out the following before-and-after content designs: 
+Sometimes the best way to see how far you've come is to look where you started. Check out the following before-and-after content designs:
 
 * Redesigned a [page on PayPal Developer that gets over a million visits a year](https://github.com/hownbey/portfolio/blob/main/get-started-redesign.md).
 * Rewrote an [API overview that increased customer adoption](https://github.com/hownbey/portfolio/blob/main/api-rewrite.md).
 
 ## Customer research
 
-I conducted user interviews and passed key takeaways to executives in an [easy-to-read blog format](https://github.com/hownbey/portfolio/blob/main/customer-interview-writeup.md). 
+I conducted user interviews and passed key takeaways to executives in an [easy-to-read blog format](https://github.com/hownbey/portfolio/blob/main/customer-interview-writeup.md).
 
-## UI writing 
+## UI writing
 
 In a perfect world, the UI is so intuitive that users don't need documentation. See my attempt at chasing the dream with my [Developer Dashboard UI text audit](https://github.com/hownbey/portfolio/blob/main/ui-audit.md).
 
-## The mess behind the magic 
+## The mess behind the magic
 
 This brief writeup is an inside look at how I took confusing requirements from a product manager and created [one easy-to-read sentence](https://github.com/hownbey/portfolio/blob/main/one-sentence.md).
 
-## Old-school hardware documentation 
+## Old-school hardware documentation
 
 Remember when you'd buy hardware and the guide came in the box? I've written those guides. [Dropbox link](https://www.dropbox.com/scl/fi/l9dnbc7sdddg3cnype8ph/9033_GSG.pdf?rlkey=nuqa5cclok00js70i0cnu9anh&dl=0).
 
-## My writing in the wild 
+## My writing in the wild
 
 * [No-Code Checkout](https://developer.paypal.com/docs/checkout/copy-paste/)
 * [Save payment methods](https://developer.paypal.com/docs/checkout/save-payment-methods/)
