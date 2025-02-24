@@ -3,7 +3,7 @@
 A sentence at the top of an API call log read as follows:
 > "This view is limited to a maximum of 100 recent API Calls within the last 15 days only."
 
-It was a clunky sentence. Worse, it was an inaccurate sentence since engineering added new functionality to the call log. 
+It was a clunky sentence. Worse, it was an inaccurate sentence since engineering added new functionality to the call log.
 
 ## The prompt from a PM
 
@@ -15,9 +15,9 @@ Here’s what the product manager requested in the ticket. Can’t help but love
 I reworked the sentence like this:
 > “View, sort and search up to 100 calls made within the last 15 days.”
 
-I took the PM’s requirements and wrote a sentence that was shorter, clearer, and contained more information. The PM approved it with a little smiley emoji, which surprised me because this PM doesn’t smile much. 
+I took the PM’s requirements and wrote a sentence that was shorter, clearer, and contained more information. The PM approved it with a little smiley emoji, which surprised me because this PM doesn’t smile much.
 
-When the new API call log went live, customer feedback scores for the page increased by 10%. The content guided customers where they needed to go and got out of their way. 
+When the new API call log went live, customer feedback scores for the page increased by 10%. Most of the bump was due to the new search functionality, but I was happy to create content that helped customers and then got out of their way. 
 
 ## Why is one sentence in my portfolio?
 

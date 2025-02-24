@@ -1,6 +1,6 @@
 # Before and after - API description rewrite
 
-This API description is one of the first things a developer reads when looking at the API documentation. This redesign helped boost API adoption, which translates into tens of thousands more people using this API. As it turns out, more customers adopt a product when they understand what it does. 
+This API description is one of the first things a developer reads when looking at the API documentation. This redesign helped boost API adoption, which translates into tens of thousands more people using this API. It turns out more customers adopt a product when they understand what it does. 
 
 ## Before
 

@@ -1,8 +1,10 @@
-# Increasing user satisfaction by 100% 
+# Increasing user satisfaction by 100%
 
-This redesign took the user satisfaction score from a 2 to a 4 out of 5 on [a page that gets over a million visits every year](https://developer.paypal.com/api/rest/). We also decreased time-to-first-click by 5%. Check out the before and after. For content enthusiasts, I included commentary about the reasoning behind the edits.
+The instructions on this page tell developers how to get up and running with PayPal REST APIs. Everyone who wants to use PayPal APIs must follow these steps to get started.
 
-## Before 
+I led a redesign that took the user satisfaction score from a 2 to a 4 out of 5 on [a page that gets over a million visits every year](https://developer.paypal.com/api/rest/). We also decreased time-to-first-click by 5%. Check out the before and after. After the pictures, I included commentary about the reasoning behind the edits.
+
+## Before
 
 ![API get started page before redesign](https://github.com/hownbey/portfolio/blob/main/img/before.png)
 
@@ -12,15 +14,15 @@ This redesign took the user satisfaction score from a 2 to a 4 out of 5 on [a pa
 
 ## Explanation of changes
 
-If you want a deep dive, here's a play-by-play of the changes I made.
+Here's a play-by-play of the changes I made and why.
 
 ### The old intro
 
 The doc started with a clammy handshake: “The PayPal REST API is organized around transaction workflows, including payments, subscriptions, invoicing, and disputes.”
 
-Let's paraphrase this: “PayPal REST APIs do money stuff.” Call the papers; who knew? The next sentence has some filler on how REST APIs work. So as an external developer, I've read two sentences that tell me “Our APIs do stuff. Here is how REST APIs do stuff generally.” Nothing actionable here.
+Let's paraphrase this: “PayPal REST APIs do money stuff.” Call the papers; who knew?
 
-There's finally an actionable step in the third sentence: create an account on the Developer Dashboard. Then, generate the things. No, we're not going to tell you how to generate the things or tell you what they are.
+There's an actionable step in the second sentence: create an account on the Developer Dashboard. Then, generate the things. No, we're not going to tell you how to generate the things or tell you what they are.
 
 Time for a Brick of Text (TM). Something something accounts. Tl;dr - I'm happy for you, or sorry that happened.
 
@@ -28,15 +30,15 @@ Oh cool, a Run in Postman button! If I click it, it takes me to a Postman collec
 
 ### The account types section
 
-Use sandbox accounts to test your app. Sorry, what are sandbox accounts? Ok, I'll need both both (sic) personal and business sandbox accounts? 
+Use sandbox accounts to test your app. Sorry, what are sandbox accounts? Ok, I'll need both both (sic) personal and business sandbox accounts?
 
 Suddenly a useless table busts in like the Kool-Aid man.
 
 And that's pretty much the end of the page.
 
-We figured our devs had some lingering questions. How do you get an access token? What is the sandbox? How do you get sandbox credentials?
+We figured devs had some lingering questions. How do you get an access token? What is the sandbox? How do you get sandbox credentials?
 
-### The new intro 
+### The new intro
 
 We start with telling the dev how our APIs authenticate and what they return. We're specific, concise, and upfront that you can only test US integrations.
 
@@ -48,11 +50,11 @@ We put important information about a PayPal Business account in a big red box so
 
 We explain exactly what a client ID and secret are, what they do, and how you use them. Then we give clear, step-by-step instructions for how to grab them from the Developer Dashboard. These instructions weren’t on the old page.
 
-### Get access token 
+### Get access token
 
 Also missing from the old page - instructions for getting an access token and an explanation of what an access token is. So, we put information on getting an access token via cURL and Postman. Then we hit the devs up with a sample response. Expectations set.
 
-### Get sandbox account credentials 
+### Get sandbox account credentials
 
 We round off our page with some important info about the sandbox. First off, we did some level-setting about what a sandbox is. “The PayPal sandbox is a test environment that mirrors real-world transactions.” Short and sweet, almost pithy. Top it off with step-by-step instructions for how to get sandbox credentials for personal and business accounts, and boom. You've got everything you need to get started.
 
