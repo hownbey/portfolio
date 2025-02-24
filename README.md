@@ -11,7 +11,7 @@ Sometimes the best way to see how far you've come is to look where you started. 
 
 ## Customer research
 
-I conducted user interviews and passed key takeaways to executives in an [easy-to-read blog format](https://github.com/hownbey/portfolio/blob/main/customer-interview-writeup.md).
+I conducted user interviews and passed key takeaways to executives in an [easy-to-read blog](https://github.com/hownbey/portfolio/blob/main/customer-interview-writeup.md).
 
 ## UI writing
 
