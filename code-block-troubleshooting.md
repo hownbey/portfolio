@@ -17,7 +17,7 @@ Sometimes the error messages in Prettier are useless. Sometimes a page passes in
 return fetch(\`/api/paypal/orders/\${orderID}/capture/
 ```
 
-When in doubt, put a backslash before a funky character in the code block and see if that makes the page work.
+The backslash tells Gatsby to display the character instead of reading it to render the page. When in doubt, put a backslash before a funky character in the code block and see if that makes the page work.
 
 ## Align code with the left-hand side of the block
 
@@ -199,4 +199,4 @@ Node.js samples are also language-javascript.
 
 ## If all else fails...
 
-This is war. Cut each code block one by one, save your page, and refresh in localhost. When the page no longer displays a 404, you've found the problem. If you're doing this, you're out of options, you desperate individual, you. We've all been there. We'll sip a tasty beverage in your honor.
+This is war. Cut each code block one by one. Each time you cut a code block, save your page, and refresh in localhost. When the page no longer displays a 404, you've found the problem. If you're doing this, you're out of options, you desperate individual, you. We've all been there. We'll sip a tasty beverage in your honor.
