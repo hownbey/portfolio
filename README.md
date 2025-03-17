@@ -21,6 +21,10 @@ In a perfect world, the UI is so intuitive that users don't need documentation. 
 
 This brief writeup is an inside look at how I took confusing requirements from a product manager and created [one easy-to-read sentence](https://github.com/hownbey/portfolio/blob/main/one-sentence.md).
 
+## For non-developers
+
+This process doc tells anyone who contributes to documentation how to troubleshoot if a [code block change makes the page 404](https://github.com/hownbey/portfolio/blob/main/code-block-troubleshooting.md).
+
 ## Old-school hardware documentation
 
 Remember when you'd buy hardware and the guide came in the box? I've written those guides. [Dropbox link](https://www.dropbox.com/scl/fi/l9dnbc7sdddg3cnype8ph/9033_GSG.pdf?rlkey=nuqa5cclok00js70i0cnu9anh&dl=0).
