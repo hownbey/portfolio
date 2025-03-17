@@ -40,7 +40,7 @@ We figured devs had some lingering questions. How do you get an access token? Wh
 
 ### The new intro
 
-We start with telling the dev how our APIs authenticate and what they return. We're specific, concise, and upfront that you can only test US integrations.
+We start with telling the dev how our APIs authenticate and what they return. We're specific, concise, and upfront.
 
 Next, we provide a link to Postman for the types who'd rather do stuff than read stuff. Go on, be your best busy self. We also added documentation inside Postman so users are no longer marooned.
 
