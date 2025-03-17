@@ -1,6 +1,6 @@
 # Code block troubleshooting
 
-The engineering team rolled out Gatsby React code blocks that toggle between code languages. It's a cool feature, but there's one catch. Broken code blocks create a 404 "Not Found" error on the page, and the system won't say why. If that happens, this guide will help you get unstuck.
+The engineering team rolled out Gatsby React code blocks that toggle between code languages. It's a cool feature, but there's one catch. Broken code blocks create a 404 "Not Found" error on the page, and the system won't say why. If you add or change a code block and get a 404, this guide will help you get unstuck.
 
 ## Check your markdown in prettier.io
 
@@ -8,7 +8,7 @@ Copy your markdown and paste into [prettier.io](https://prettier.io/playground).
 
 Sometimes the error messages in Prettier are useless. Sometimes a page passes in Prettier but still 404's, and vice-versa. That's ok; that's what the rest of this guide is for.
 
-## Escape characters that are read as code
+## Escape dollar sign and back tic characters
 
 "Escape" is a fancy way of saying "put a backslash in front of." The most notorious offenders are the dollar sign and back tic in JavaScript. Make sure all instances of `$` and <code>&#96;</code> in your code blocks have a backslash in front of them:
 
@@ -19,7 +19,7 @@ return fetch(\`/api/paypal/orders/\${orderID}/capture/
 
 When in doubt, put a backslash before a funky character in the code block and see if that makes the page work.
 
-## Make sure your code is spaced properly from the left-hand side of the page
+## Align code with the left-hand side of the block
 
 Code block markup looks like this:
 
@@ -60,7 +60,7 @@ Empty lines will 404 your page! Remove the empty line and put a `\n` instead.
        }
 ```
 
-## No smart quotes
+## Remove smart quotes
 
 Smart, formatted single and double quotation marks cause linter errors in your code. Replace them with plain, straight single or double quotes. This applies outside your code, too.
 
