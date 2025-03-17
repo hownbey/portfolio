@@ -1,6 +1,6 @@
 # Code block troubleshooting
 
-The engineering team rolled out Gatsby React code blocks that toggle between code languages. It's a cool feature, but there's one catch. Broken code blocks create a 404 "Not Found" error on the page, and the system won't say why. If you add or change a code block and get a 404, this guide will help you get unstuck.
+The engineering team rolled out code blocks that toggle between code languages. It's a cool feature, but there's one catch. Broken code blocks create a 404 "Not Found" error on the page, and the system won't say why. If you add or change a code block and get a 404, this guide will help you get unstuck.
 
 ## Check your markdown in prettier.io
 
@@ -17,7 +17,7 @@ Sometimes the error messages in Prettier are useless. Sometimes a page passes in
 return fetch(\`/api/paypal/orders/\${orderID}/capture/
 ```
 
-The backslash tells Gatsby to display the character instead of reading it to render the page. When in doubt, put a backslash before a funky character in the code block and see if that makes the page work.
+The backslash tells Gatsby to display the character instead of using the character to render the page. When in doubt, put a backslash before a funky character in the code block and see if that makes the page work.
 
 ## Align code with the left-hand side of the block
 
@@ -31,7 +31,7 @@ PASTE YOUR CODE SAMPLE BELOW AND THEN DELETE THIS LINE. IT'S ALL CAPS SO YOU DON
 </CodeBlockWrapper>
 ```
 
-Paste the code sample flush with the left-hand side of your code editor. This gives the code proper indentation.
+Paste the code sample flush with the left-hand side of your code editor. This gives the code proper indentation and mysteriously clears up 404 issues.
 
 ```
 <CodeBlockWrapper>
@@ -62,7 +62,7 @@ Empty lines will 404 your page! Remove the empty line and put a `\n` instead.
 
 ## Remove smart quotes
 
-Smart, formatted single and double quotation marks cause errors in your code. Find and replace them with plain, straight single or double quotes. This applies outside your code, too. There is no need for smart quotes in our docs, period.
+Smart, formatted single and double quotation marks cause errors in your code. **Find and replace** them with plain, straight single or double quotes. This applies outside your code, too. There is no need for smart quotes in our docs, period.
 
 These are smart quotes, and they ruin your page results: “ ”, ‘ ’
 
