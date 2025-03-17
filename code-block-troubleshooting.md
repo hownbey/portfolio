@@ -62,9 +62,9 @@ Empty lines will 404 your page! Remove the empty line and put a `\n` instead.
 
 ## Remove smart quotes
 
-Smart, formatted single and double quotation marks cause linter errors in your code. Replace them with plain, straight single or double quotes. This applies outside your code, too.
+Smart, formatted single and double quotation marks cause errors in your code. Find and replace them with plain, straight single or double quotes. This applies outside your code, too. There is no need for smart quotes in our docs, period.
 
-These are smart quotes, and they ruin your linter results: “ ”, ‘ ’
+These are smart quotes, and they ruin your page results: “ ”, ‘ ’
 
 These are straight quotes, and they are The Way: " ", ' '
 
