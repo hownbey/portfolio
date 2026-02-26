@@ -1,6 +1,8 @@
 # Harrison Ownbey's writing portfolio
 
-Hi! I'm [Harrison Ownbey](https://www.linkedin.com/in/harrisonownbey/). I'm a versatile, team-oriented technical writer with over a decade of experience at three Fortune 500 companies and a proven record of driving business results.
+Hi! I'm [Harrison Ownbey](https://www.linkedin.com/in/harrisonownbey/). I have a simple philosophy: create documentation that helps people, then business results follow.
+
+I'm a versatile, team-oriented technical writer with over a decade of experience at three Fortune 500 companies and a proven record of driving customer-focused content.
 
 ## Before-and-after designs
 
@@ -11,7 +13,7 @@ Sometimes the best way to see how far you've come is to look where you started. 
 
 ## Customer research
 
-I conducted user interviews and passed key takeaways to executives in an [easy-to-read blog](https://github.com/hownbey/portfolio/blob/main/customer-interview-writeup.md).
+I conducted user interviews and passed key takeaways to executives in an [easy-to-read blog](https://github.com/hownbey/portfolio/blob/main/customer-interview-writeup.md). 
 
 ## The mess behind the magic
 
