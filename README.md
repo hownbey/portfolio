@@ -35,5 +35,4 @@ In a perfect world, the UI is so intuitive that users don't need documentation. 
 
 * [PayPal checkout quick start](https://docs.paypal.ai/payments/methods/paypal/integrate)
 * [Save payment methods](https://developer.paypal.com/docs/checkout/save-payment-methods/)
-* [Integrate Invoicing](https://developer.paypal.com/docs/invoicing/integrate/)
 * [Introducing Pay in 4 from PayPal: What Devs Need to Know](https://medium.com/paypal-tech/introducing-pay-in-4-from-paypal-heres-what-devs-need-to-know-12287bd362c1)
