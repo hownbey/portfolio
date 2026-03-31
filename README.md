@@ -1,8 +1,10 @@
 # Harrison Ownbey's writing portfolio
 
-Hi! I'm [Harrison Ownbey](https://www.linkedin.com/in/harrisonownbey/). I have a simple philosophy: create documentation that helps people, then business results follow.
+Hi! I'm [Harrison Ownbey](https://www.linkedin.com/in/harrisonownbey/). I have a simple philosophy: create documentation that helps people. Business results follow - fewer support calls, shorter time to success, and higher product satisfaction.
 
-I'm a versatile, team-oriented technical writer with over a decade of experience at three Fortune 500 companies and a proven record of driving customer-focused content.
+I'm a versatile, team-oriented technical writer with over a decade of experience at three Fortune 500s and a proven record of driving customer-focused content.
+
+On a personal note, I like architecture, watches, bad karaoke, sketch comedy, and of course piña coladas and getting caught in the rain. I'm based in Austin, Texas, and am a proud father of two children. 
 
 ## Before-and-after designs
 
